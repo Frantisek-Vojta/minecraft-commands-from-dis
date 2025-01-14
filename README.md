@@ -1,2 +1,2 @@
-# minecraft-commands-from-dis
-send EVERY command to minecraft server via discord
+# minecraft commands from dis
+# send EVERY command to minecraft server via discord
