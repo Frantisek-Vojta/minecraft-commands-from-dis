@@ -9,8 +9,8 @@ send EVERY command to minecraft server via discord
     b) rcon.port=25575<br>
     c) rcon.password=pass-here - create your password<br>
 3) edit the code with these values, add your bot, and your room ID<br>
-    if you dont have bot:   https://www.youtube.com/watch?v=4XswiJ1iUaw<br>
-    how to check room ID:   https://www.youtube.com/watch?v=GuO4TswMZho<br>
+    if you dont have bot:       https://www.youtube.com/watch?v=4XswiJ1iUaw<br>
+    how to check room ID:       https://www.youtube.com/watch?v=GuO4TswMZho<br>
 
 4) restart the server<br>
 5) run the bot<br>
