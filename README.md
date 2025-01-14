@@ -16,6 +16,10 @@ send EVERY command to minecraft server via discord
 5) run the bot<br>
 5) in discord room type: "c!command <command>" (c!command say hello world)<br>
 
+<br>
+<br>
+<br>
+
 
 
 if errors contact me on discord: xcel_cze
