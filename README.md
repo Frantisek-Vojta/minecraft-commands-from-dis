@@ -13,6 +13,7 @@ send EVERY command to minecraft server via discord
     how to check room ID:   https://www.youtube.com/watch?v=GuO4TswMZho<br>
 
 4) restart the server<br>
+5) run the bot<br>
 5) in discord room type: "c!command <command>" (c!command say hello world)<br>
 
 
