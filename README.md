@@ -13,7 +13,6 @@ Send every command to your Minecraft server directly from Discord.
     4) Restart the server.
     5) Launch the bot.
     6) In your Discord room, type: c!command <command> (e.g., c!command say hello world).
-<br><br>
 For support, contact me on Discord: xcel_cze
 
 
