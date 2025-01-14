@@ -16,7 +16,7 @@ Send every command to your Minecraft server directly from Discord.
 For support, contact me on Discord: xcel_cze
 
 
-<br><br><br><br>
+<br>
 # CZ Version: Posílejte Minecraft Příkazy z Discordu
 Posílejte každý příkaz do Minecraft serveru přímo přes Discord.
 
