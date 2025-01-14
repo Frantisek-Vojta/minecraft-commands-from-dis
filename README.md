@@ -1,52 +1,38 @@
-# EN verison: minecraft commands from dis
-send EVERY command to minecraft server via discord
+# EN Version: Send Minecraft Commands via Discord
+Send every command to your Minecraft server directly from Discord.
+
+## Setup Instructions:
+    1) Open your server.properties file.
+    2) Modify and add the following values:
+        a) enable-rcon=true
+        b) rcon.port=25575
+        c) rcon.password=your-password-here – create a secure password.
+    3) Update the code with these values, and add your bot's credentials and Discord room ID.
+        a) No bot? Follow this guide: How to create a bot
+        b) How to find room ID? Watch here: How to find room ID
+    4) Restart the server.
+    5) Launch the bot.
+    6) In your Discord room, type: c!command <command> (e.g., c!command say hello world).
+<br><br>
+For support, contact me on Discord: xcel_cze
 
 
-## SETUP:
-1) go to server.properties <br>
-2) edit and add these values:<br>
-    a) enable-rcon=true<br>
-    b) rcon.port=25575<br>
-    c) rcon.password=pass-here - create your password<br>
-3) edit the code with these values, add your bot, and your room ID<br>
-    if you dont have bot:         https://www.youtube.com/watch?v=4XswiJ1iUaw<br>
-    how to check room ID:         https://www.youtube.com/watch?v=GuO4TswMZho<br>
+<br><br><br><br>
+# CZ Version: Posílejte Minecraft Příkazy z Discordu
+Posílejte každý příkaz do Minecraft serveru přímo přes Discord.
 
-4) restart the server<br>
-5) run the bot<br>
-5) in discord room type: "c!command <command>" (c!command say hello world)<br>
+## Nastavení:
+    1) Otevřete soubor server.properties.
+    2) Upravte a přidejte tyto hodnoty:
+        a) enable-rcon=true
+        b) rcon.port=25575
+        c) rcon.password=vaše-heslo-here – vytvořte si bezpečné heslo.
+    3) Upravte kód s těmito hodnotami, přidejte údaje o vašem botovi a ID Discord místnosti.
+        a) Nemáte bota? Podívejte se na tento návod: Jak vytvořit bota
+        b) Jak zjistit ID místnosti? Sledujte zde: Jak zjistit ID místnosti
+    4) Restartujte server.
+    5) Spusťte bota.
+    6) V Discord místnosti napište: c!command <command> (např. c!command pozdrav světe).
+<br><br>
+Pokud máte problémy, kontaktujte mě na Discordu: xcel_cze
 
-<br>
-<br>
-<br>
-
-
-
-if errors contact me on discord: xcel_cze
-
-
-# CZ version: příkazy minecraft z dis
-poslat KAŽDÝ příkaz na minecraft server přes discord
-
-
-## NASTAVENÍ:
-1) přejděte na server.properties <br>
-2) upravte a přidejte tyto hodnoty:<br>
- a) enable-rcon=true<br>
- b) rcon.port=25575<br>
- c) rcon.password=pass-here – vytvořte si heslo<br>
-3) upravte kód s těmito hodnotami, přidejte svého robota a ID místnosti<br>
- pokud nemáte robota: https://www.youtube.com/watch?v=4XswiJ1iUaw<br>
- jak zkontrolovat ID pokoje: https://www.youtube.com/watch?v=GuO4TswMZho<br>
-
-4) restartujte server<br>
-5) spusťte robot<br>
-5) v nesouhlasné místnosti typ: "c!command <command>" (c!command pozdrav světe)<br>
-
-<br>
-<br>
-<br>
-
-
-
-v případě chyb mě kontaktujte na discord: xcel_cze
