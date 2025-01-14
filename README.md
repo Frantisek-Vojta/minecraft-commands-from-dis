@@ -25,7 +25,7 @@ send EVERY command to minecraft server via discord
 if errors contact me on discord: xcel_cze
 
 
-#CZ version: příkazy minecraft z dis
+# CZ version: příkazy minecraft z dis
 poslat KAŽDÝ příkaz na minecraft server přes discord
 
 
