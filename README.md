@@ -31,7 +31,7 @@ Posílejte každý příkaz do Minecraft serveru přímo přes Discord.
         b) Jak zjistit ID místnosti? Sledujte zde: https://www.youtube.com/watch?
     4) Restartujte server.
     5) Spusťte bota.
-    6) V Discord roomce napište: c!command <command> (např. c!command pozdrav světe).
+    6) V Discord roomce napište: c!command <command> (např. c!command say hello world).
 <br><br>
 Pokud máte problémy, kontaktujte mě na Discordu: xcel_cze
 
