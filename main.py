@@ -2,7 +2,7 @@ TOKEN = 'token-here' # discord bot token, discord bot token
 RCON_HOST = 'ip-here' # ip serveru, ip of the server
 RCON_PORT = 25575  # Port RCON vetsinou 25575, port RCON mostly 25575
 RCON_PASSWORD = 'pass-here' # heslo RCON, password of RCON
-ALLOWED_CHANNEL_ID = 11111111111111111111 # id roomky na discordu, room id on discord
+ALLOWED_CHANNEL_ID = 11111111111111111111 # id roomky na discordu, room id on discordd
 
 
 
@@ -21,7 +21,7 @@ bot = commands.Bot(command_prefix="c!", intents=intents)
 @bot.command()
 async def command(ctx, *, command: str = None):
     if ctx.channel.id != ALLOWED_CHANNEL_ID:
-        await ctx.send("spatny kanal pro prikaz, wrong channel for command")
+        await ctx.send("spatny kanal pro prikaz, wrrong channel for command")
         return
 
     if not command:
